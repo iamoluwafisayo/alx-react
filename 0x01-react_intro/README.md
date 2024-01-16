@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x01. React intro
 ## Learning Objectives
 
@@ -7,3 +8,6 @@
 - How to use the React Developer Tools to debug your code
 - How to use Enzyme’s Shadow rendering to test your application
 - How to use React with Webpack & Babel
+=======
+# 0x01. React introduction
+>>>>>>> f8c6ac77f0ae6386648cddcc21d92a0c0f4bc372

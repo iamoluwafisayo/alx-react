@@ -19,7 +19,7 @@
     "webpack",
     "plugins"
   ],
-  "author": "Joseph Mahiuha",
+  "author": "David Oluwatosin",
   "license": "ISC",
   "devDependencies": {
     "webpack": "^5.50.0",
